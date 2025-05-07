@@ -1,5 +1,5 @@
-from dataexcel import DataExcel
-from database import DataBase
+from big_data.dataexcel import DataExcel
+from big_data.database import DataBase
 import pandas as pd
 
 
